@@ -33,7 +33,8 @@ RegisterNumber: 24900678
 
 ## Output:
 
-![Screenshot 2024-11-27 133503](https://github.com/user-attachments/assets/e5beb401-6d54-4212-86af-985c019ebf8f)
+![Screenshot 2024-12-08 232235](https://github.com/user-attachments/assets/f911be3f-cd87-402d-ad07-36de117fb33d)
+
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
