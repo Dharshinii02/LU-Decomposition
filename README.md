@@ -24,11 +24,6 @@ P,L,U=lu(A)
 print(L)
 print(U)
 
-```
-
-Developed by: dharshini j
-RegisterNumber: 24900678
-*/
 
 import numpy as np
 from scipy.linalg import lu_factor, lu_solve
